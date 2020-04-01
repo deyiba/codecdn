@@ -130,11 +130,11 @@ Proxy:
   ws-path: /video
   Host: pan.invs.top
 
-- name: "Trojan节点的主机测试"
-  type: trojan
-  server: www.cloudconessr.com
-  port: 443
-  password: cloudconessr.com
+#- name: "Trojan节点的主机测试"
+# type: trojan
+# server: www.cloudconessr.com
+# port: 443
+# password: cloudconessr.com
 
  
 ###############################################################配置分割线
